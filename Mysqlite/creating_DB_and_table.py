@@ -2,7 +2,7 @@ import mysql.connector#don't execute this is for creating new table
 db=mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Simba@123",
+    password="abcdef",
     database="t20wc"
 )
 d
